@@ -7,4 +7,6 @@ Author: Amelia Tessier
 CCID: aatessie
 ###
 ## References and Resources
-N/A
+### Verbal Collaboration
+Name: Sasha Dudiy
+CCID: dudiy
